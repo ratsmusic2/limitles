@@ -1,6 +1,3 @@
-@extends('layouts.header')
+@extends('layouts.layout')
 @section('content')
-@include('layouts.layout')
-@include('layouts.footer')
-
 @endsection
