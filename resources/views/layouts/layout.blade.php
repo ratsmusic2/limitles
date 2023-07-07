@@ -26,9 +26,10 @@
         <link href="./assets/demo/demo.css" rel="stylesheet"/>
     </head>
 
-    <body class="sections-page ">
-        @yield('content')
+    <body class="sections-page sidebar-collapse">
+        
         <!-- Navbar -->
+        <div class="separator">
         <nav
             class="navbar navbar-expand-lg fixed-top nav-down navbar-light"
             style="background-color:#ffffff">
@@ -118,7 +119,14 @@
                 </div>
             </div>
         </nav>
+    </div>
         <!-- End Navbar -->
+           @include('layouts.corousel')
+           @include('layouts.knowus')
+           @include('layouts.designs')
+           @include('layouts.satisfied')
+           @include('layouts.contacts')
+
         <!-- Core JS Files -->
         <script src="./assets/js/core/jquery.min.js" type="text/javascript"></script>
         <script src="./assets/js/core/popper.min.js" type="text/javascript"></script>

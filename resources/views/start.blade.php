@@ -1,6 +1,1 @@
 @include('layouts.layout')
-@include('layouts.corousel')
-@include('layouts.knowus')
-@include('layouts.designs')
-@include('layouts.satisfied')
-@include('layouts.contacts')
