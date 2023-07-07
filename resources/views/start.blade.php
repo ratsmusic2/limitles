@@ -4,3 +4,4 @@
 @include('layouts.designs')
 @include('layouts.satisfied')
 @include('layouts.contacts')
+@include('layouts.footer')
