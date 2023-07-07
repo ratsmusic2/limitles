@@ -38,7 +38,7 @@
           <img src="./assets/img/Limitless.png" class="img-fluid " alt="...">
         </a>
           <!-- <a class="navbar-brand" href="/index.html" rel="tooltip" title="Limitless"
-          data-placement="bottom" target="_blank"> Limitless Design </a>-->
+          data-placement="bottom" target="_blank"> Limitless Desiiiign </a>-->
           <button
               class="navbar-toggler"
               type="button"
