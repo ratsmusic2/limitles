@@ -1,8 +1,12 @@
+@extends('layouts.header')
 @section('content')
 
-@extends('layouts.layout')
-@extends('layouts.corousel')
-@extends('layouts.knowus')
-@extends('layouts.designs')
-@extends('layouts.satisfied')
-@extends('layouts.contacts')
+@include('layouts.layout')
+@include('layouts.corousel')
+@include('layouts.knowus')
+@include('layouts.designs')
+@include('layouts.satisfied')
+@include('layouts.contacts')
+@include('layouts.footer')
+
+@endsection
