@@ -1,7 +1,4 @@
 @extends("layouts.layout")
-fffffffffffffffff
-ffffffffffffffff
-ffffffffffffffff
-fffffffffffffffff
-ffffffffffffffffffff
+@section('content')
 @include('layouts.footer')
+@endsection

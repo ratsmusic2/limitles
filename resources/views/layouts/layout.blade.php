@@ -29,6 +29,7 @@
     </head>
 
     <body class="sections-page ">
+        @yield('content')
         @include('layouts.menu')
         <!-- Core JS Files -->
         <script src="./assets/js/core/jquery.min.js" type="text/javascript"></script>
