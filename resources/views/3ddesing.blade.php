@@ -1,2 +1,3 @@
-@include('layouts.layout')
-@include('layouts.footer')
+@extends("layouts.layout")
+@content("contenido")
+@stop
