@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="credits ml-auto">
-        <span class="copyright">
+        <span class="copyriooght">
           ©
           <script>
             document.write(new Date().getFullYear())
