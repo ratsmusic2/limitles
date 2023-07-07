@@ -25,3 +25,6 @@ Route::get('/blueprintsdesing', function () {
 Route::get('/3ddesing', function () {
     return view('3ddesing');
 });
+Route::get('/interiordesingn', function () {
+    return view('interiordesingn');
+});

@@ -82,6 +82,9 @@
                                     <a href="./blueprintsdesing" class="dropdown-item">
                                         Blueprints Designs
                                     </a>
+                                    <a href="./interiordesingn" class="dropdown-item">
+                                        Interior Design
+                                    </a>
                                 </div>
                             </li>
                             <li class="dropdown nav-item">
@@ -90,18 +93,16 @@
                                     class="dropdown-toggle nav-link"
                                     id="navbarDropdownMenuLink"
                                     data-toggle="dropdown">
-                                    Sections
+                                    Know Us
                                 </a>
                                 <div
                                     class="dropdown-menu dropdown-menu-right dropdown-danger"
                                     aria-labelledby="navbarDropdownMenuLink">
-                                    <a
-                                        class="dropdown-item"
-                                        data-scroll="true"
-                                        data-id="#headers"
-                                        href="./sections.html#headers">
-                                        <i class="nc-icon nc-tile-56"></i>
-                                        Headers
+                                    <a href="./#knowus" class="dropdown-item">
+                                        Creators
+                                    </a>
+                                    <a href="./#satisfied" class="dropdown-item">
+                                        Satisfied Customers
                                     </a>
                                 </div>
                             </li>
@@ -111,14 +112,13 @@
                                     class="dropdown-toggle nav-link"
                                     id="navbarDropdownMenuLink1"
                                     data-toggle="dropdown">
-                                    Examples
+                                    Locate Us
                                 </a>
                                 <div
                                     class="dropdown-menu dropdown-menu-right dropdown-danger"
                                     aria-labelledby="navbarDropdownMenuLink1">
-                                    <a class="dropdown-item" href="./examples/about-us.html">
-                                        <i class="nc-icon nc-bank"></i>
-                                        About-us
+                                    <a class="dropdown-item" href="./#contacts">
+                                        Contact Us
                                     </a>
 
                                 </div>
@@ -202,9 +202,7 @@
                 demo.initContactUsMap2();
             });
         </script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-        <script
-            src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
+
         <script
             src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox.min.js"></script>
 

@@ -2,7 +2,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-8 ml-auto mr-auto">
-          <h2 class="title text-center" style="font-weight:bold;color:black !importan" >3D Virtual Model Tours</h2>
+          <h2 class="title text-center" style="font-weight:bold;color:black !importan" >Interior Desingn</h2>
           <br />
         </div>
       </div>

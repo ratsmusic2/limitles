@@ -2,7 +2,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-10 ml-auto mr-auto">
-          <div class="card card-contact no-transition">
+          <div id="contacts"class="card card-contact no-transition">
             <h3 class="card-title text-center" style="font-weight:bold;color:black !important">Contact Us</h3>
             <div class="row">
               <div class="col-md-5 ml-auto">
