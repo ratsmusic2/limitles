@@ -1,4 +1,5 @@
-@content("content")
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -28,6 +29,8 @@
     </head>
 
     <body class="sections-page ">
+        @yield("content")
+        @section("content")
         <!-- Navbar -->
         <nav
             class="navbar navbar-expand-lg fixed-top nav-down navbar-light"
@@ -173,6 +176,7 @@
                 demo.initContactUsMap2();
             });
         </script>
+        @endsection
     </body>
     <footer class="footer footer-black  footer-white ">
         <div class="container">
