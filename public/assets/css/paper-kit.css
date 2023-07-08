@@ -9915,7 +9915,9 @@ video {
 .card-image .img-raised {
   margin-top: -20px;
 }
-
+.card-vid.vid-raised {
+  margin-top: -20px;
+}
 .page-header .card-pricing.card-plain .card-category,
 .page-header .card-pricing.card-plain .card-title {
   color: #FFFFFF;

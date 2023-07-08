@@ -1,4 +1,4 @@
 @extends('layouts.layout')
 @section('content')
-@include('interiordesign.desing')
+@include('interiordesign.galerydesing')
 @endsection
