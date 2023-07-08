@@ -42,7 +42,8 @@
                 <div class="container">
                     <div class="navbar-translate">
                         <a href="/">
-                            <img src="./assets/img/Limitless.png" class="img-fluid " alt="...">
+                            <img src="./assets/img/Limitless.png" class="img-fluid " alt="..." style="width:120px;height:100px" >
+                            <img src="./assets/img/solehomes.png" class="img-fluid " alt="..." style="width:120px;height:60px" >
                         </a>
                         <!-- <a class="navbar-brand" href="/index.html" rel="tooltip" title="Limitless"
                         data-placement="bottom" target="_blank"> Limitless Desiiiign </a>-->
