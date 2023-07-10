@@ -49,8 +49,8 @@
       </div>
       <div class="row">
         <div class="col-md-6">
-          <div class="card card-plain card-blog text-center">
-            <div class="card-image">
+          <div class="card card-plain card-blog text-center ">
+            <div class="card-image ">
               <a>
                 <iframe class="img img-raised" style="width:540px;height:310px"  src="https://www.youtube.com/embed/DiP0whuhBRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
               </a>
