@@ -65,10 +65,19 @@
                         <ul class="navbar-nav ml-auto">
                             <li class="dropdown nav-item">
                                 <a
+                                    href="/"
+                                    class="nav-link"
+                                    data-toggle="dropdown-item"
+                                    aria-expanded="false">
+                                   START
+                                </a>
+                            </li>
+                            <li class="dropdown nav-item">
+                                <a
                                     href="#"
                                     class="dropdown-toggle nav-link"
                                     data-toggle="dropdown"
-                                    aria-expanded="false">
+                                    >
                                     DESIGNS
                                 </a>
                                 <div class="dropdown-menu dropdown-menu-right dropdown-danger">
@@ -107,20 +116,13 @@
                             </li>
                             <li class="dropdown nav-item">
                                 <a
-                                    href="#"
-                                    class="dropdown-toggle nav-link"
+                                    href="./#contacts"
+                                    class=" nav-link"
                                     id="navbarDropdownMenuLink1"
-                                    data-toggle="dropdown">
-                                    Locate Us
+                                    data-toggle="dropdown-item">
+                                    Contact Us
                                 </a>
-                                <div
-                                    class="dropdown-menu dropdown-menu-right dropdown-danger"
-                                    aria-labelledby="navbarDropdownMenuLink1">
-                                    <a class="dropdown-item" href="./#contacts">
-                                        Contact Us
-                                    </a>
 
-                                </div>
                             </li>
                         </ul>
                     </div>
