@@ -9,11 +9,15 @@
       <div class="row">
         <div class="col-md-6">
           <div class="card card-plain card-blog text-center">
-            <div class="card-image items-center">
-              <a>
-                <iframe class="img img-raised "style="width:540px;height:310px" src="https://www.youtube.com/embed/pOxGo2WLwUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-              </a>
-            </div>
+            <div class="container" style="max-width: 540px;">
+              <div class="card-image items-center">
+                <a>
+                  <div class="embed-responsive embed-responsive-16by9" style="height: 310px;">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pOxGo2WLwUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                  </div>
+                </a>
+              </div>
+            </div>        
             <div class="card-body">
               <h6 class="card-category text-warning"></h6>
               <h3 class="card-title" >
@@ -28,11 +32,15 @@
         </div>
         <div class="col-md-6">
           <div class="card card-plain card-blog text-center">
-            <div class="card-image">
-              <a>
-                <iframe class="img img-raised" style="width:540px;height:310px" src="https://www.youtube.com/embed/pHWk2F5pmeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-              </a>
-            </div>
+            <div class="container" style="max-width: 540px;">
+              <div class="card-image items-center">
+                <a>
+                  <div class="embed-responsive embed-responsive-16by9" style="height: 310px;">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pHWk2F5pmeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                  </div>
+                </a>
+              </div>
+            </div>   
             <div class="card-body">
               <h6 class="card-category text-info"></h6>
               <h3 class="card-title">
@@ -50,11 +58,15 @@
       <div class="row">
         <div class="col-md-6">
           <div class="card card-plain card-blog text-center ">
-            <div class="card-image ">
-              <a>
-                <iframe class="img img-raised" style="width:540px;height:310px"  src="https://www.youtube.com/embed/DiP0whuhBRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-              </a>
-            </div>
+            <div class="container" style="max-width: 540px;">
+              <div class="card-image items-center">
+                <a>
+                  <div class="embed-responsive embed-responsive-16by9" style="height: 310px;">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/DiP0whuhBRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                  </div>
+                </a>
+              </div>
+            </div>   
             <div class="card-body">
               <h6 class="card-category text-danger"></h6>
               <h3 class="card-title">

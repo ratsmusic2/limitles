@@ -4,7 +4,8 @@
         <h2 class="text-center card-title">Interior Designs</h2>
         <p class="text-center card-description">Nunc luctus in metus eget fringilla. Aliquam sed justo ligula. Vestibulum nibh erat, pellentesque ut laoreet vitae. </p>
     </div>
-    <div id="carouselExampleIndicators" class="carousel slide  d-block mx-auto " data-ride="carousel" style="width:740px;height:510px">
+    <div class="container" style="max-width: 740px;">
+    <div id="carouselExampleIndicators" class="carousel slide  d-block mx-auto " data-ride="carousel" style="height: 510px;">
         <ol class="carousel-indicators">
           <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -111,6 +112,7 @@
           <span class="sr-only">Next</span>
         </a>
       </div>
+    </div>
     <div class="row photos">
         <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="./assets/img/interior/1.jpg" data-lightbox="photos"><img class="img-fluid" src="./assets/img/interior/1.jpg" ></a></div>
         <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="./assets/img/interior/2.jpg" data-lightbox="photos"><img class="img-fluid" src="./assets/img/interior/2.jpg" ></a></div>
